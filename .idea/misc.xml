@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="C:\Users\belhe\anaconda3\Scripts\black.exe" />
+    <option name="sdkUUID" value="a1e8d694-b9f2-4000-b12b-4e54d74652de" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (GateNotificationApp)" project-jdk-type="Python SDK" />
+  <component name="PyCharmProfessionalAdvertiser">
+    <option name="shown" value="true" />
+  </component>
+</project>
